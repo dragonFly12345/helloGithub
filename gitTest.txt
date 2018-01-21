@@ -5,4 +5,4 @@ Creating a new branch is quick and simple.
 no ff merge.
 stash test.
 push dev.
-test remote dev.
+remote dev test.
